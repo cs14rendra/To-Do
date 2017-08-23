@@ -4,7 +4,7 @@
 //
 //  Created by surendra kumar on 7/7/17.
 //  Copyright © 2017 weza. All rights reserved.
-//
+// this is version 1.1
 
 import UIKit
 import Koloda
