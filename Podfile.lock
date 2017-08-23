@@ -1,0 +1,50 @@
+PODS:
+  - AlertOnboarding (1.9)
+  - DatePickerDialog (1.1.7)
+  - EZYGradientView (1.5.1)
+  - Koloda (4.1):
+    - pop (~> 1.0)
+  - LGButton (1.0.1)
+  - pop (1.0.10)
+  - Realm (2.8.3):
+    - Realm/Headers (= 2.8.3)
+  - Realm/Headers (2.8.3)
+  - RealmSwift (2.8.3):
+    - Realm (= 2.8.3)
+  - SkyFloatingLabelTextField (3.1.0)
+  - SwiftDate (4.1.2)
+
+DEPENDENCIES:
+  - AlertOnboarding
+  - DatePickerDialog
+  - EZYGradientView (from `https://github.com/Niphery/EZYGradientView`)
+  - Koloda
+  - LGButton
+  - RealmSwift
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SwiftDate
+
+EXTERNAL SOURCES:
+  EZYGradientView:
+    :git: https://github.com/Niphery/EZYGradientView
+
+CHECKOUT OPTIONS:
+  EZYGradientView:
+    :commit: e8cc7bf2fb77557af214289288ebc96776ffbf57
+    :git: https://github.com/Niphery/EZYGradientView
+
+SPEC CHECKSUMS:
+  AlertOnboarding: 0c97f5c4feac0a4e914bae5d530f66b4dbc6b771
+  DatePickerDialog: bd5e7e92e4da2c6a8966b28d5f5d8f335d6c2c63
+  EZYGradientView: f13e7a9e774b906c66d617fb04a13c8853ba25b4
+  Koloda: 6c4fa3ce9a68776a8ef973311e53fdda432799a8
+  LGButton: 7680195a14a59140ad5367b581ed120da7034e3d
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  Realm: 3601ef091c8c499a31101d8563b991e75546cdce
+  RealmSwift: 8183818515471b01a99abdd2970f8e4fd52b6f4a
+  SkyFloatingLabelTextField: 26a92ad407044dd5a7c3e4e348738ff0991514fe
+  SwiftDate: 2dfdebd4f67ae71c9c3e2413ee3c56947f302858
+
+PODFILE CHECKSUM: 20d1c8b05afe6334dbb2716abc3af5eb73461991
+
+COCOAPODS: 1.1.1
